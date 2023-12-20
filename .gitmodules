@@ -1,0 +1,3 @@
+[submodule "shig"]
+	path = shig
+	url = https://github.com/g-w1/shig

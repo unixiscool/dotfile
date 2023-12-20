@@ -1,0 +1,1 @@
+savedcmd_/home/keng/zig-learn/zigkernel/src/Module.symvers :=  scripts/mod/modpost -M  -a    -N  -o /home/keng/zig-learn/zigkernel/src/Module.symvers -n -T /home/keng/zig-learn/zigkernel/src/modules.order -i Module.symvers -e 

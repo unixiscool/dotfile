@@ -1,0 +1,1 @@
+savedcmd_/home/keng/zig-learn/zigkernel/src/mymodule.mod := printf '%s\n'   mymodule.o | awk '!x[$$0]++ { print("/home/keng/zig-learn/zigkernel/src/"$$0) }' > /home/keng/zig-learn/zigkernel/src/mymodule.mod
